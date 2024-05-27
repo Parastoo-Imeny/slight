@@ -16,7 +16,7 @@ body {
 }
 
 .header__bg {
-  background-image: url(../images/background.png);
+  background-image: url(../images/background.webp);
   background-position: center;
   background-size: cover;
   width: 100vw;
@@ -101,7 +101,7 @@ body {
 }
 .description__img {
   margin: 60px 10px 0 10px;
-  background-image: url(../images/Milad.png);
+  background-image: url(../images/Milad.webp);
   border-radius: 24px 24px 0 0;
   background-size: cover;
   background-position: center;
@@ -338,7 +338,7 @@ body {
   margin: 30px auto;
 }
 .calendar__img {
-  background-image: url(../images/mountains\ 1.png);
+  background-image: url(../images/mountains\ 1.webp);
   background-position: center;
   background-size: cover;
   height: 100px;
