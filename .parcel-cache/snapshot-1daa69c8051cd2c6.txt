@@ -1,4 +1,4 @@
-22839
+22847
 152D:\Projects\SlightC\node_modules\.pnpm\@parcel+cache@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\utils\test133612735412468050 1
 126D:\Projects\SlightC\node_modules\.pnpm\parcel@2.12.0_@swc+helpers@0.5.11\node_modules\@parcel\diagnostic\test\markdown.test.js133612691898678050 0
 159D:\Projects\SlightC\node_modules\.pnpm\@parcel+transformer-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11_\node_modules\@parcel\core\lib\loadParcelPlugin.js133612692130536149 0
@@ -9,7 +9,7 @@
 58D:\Projects\SlightC\node_modules\.pnpm\@parcel+rust@2.12.0133612735407199202 1
 83D:\Projects\SlightC\node_modules\.pnpm\node_modules\caniuse-lite\data\regions\GG.js133597950976678456 0
 94D:\Projects\SlightC\node_modules\.pnpm\node_modules\@swc\helpers\_\_class_private_field_update133612735412952577 1
-30D:\Projects\SlightC\.gitignore133612783442153965 0
+30D:\Projects\SlightC\.gitignore133612883495896776 0
 169D:\Projects\SlightC\node_modules\.pnpm\@parcel+core@2.12.0_@swc+helpers@0.5.11\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node133612693575907157 0
 50D:\Projects\SlightC\node_modules\parcel\src\cli.js133612691593581573 0
 107D:\Projects\SlightC\node_modules\.pnpm\htmlnano@2.1.1_svgo@2.8.0\node_modules\cosmiconfig\dist\index.js.map133612735070777295 0
@@ -38,7 +38,7 @@
 198D:\Projects\SlightC\node_modules\.pnpm\@parcel+transformer-postcss@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\utils\test\input\sourcemap\no-sourcemap.js133612692241508033 0
 189D:\Projects\SlightC\node_modules\.pnpm\@parcel+cache@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133612693106997006 0
 78D:\Projects\SlightC\node_modules\.pnpm\node_modules\@parcel\watcher\wrapper.js133612692754943058 0
-32D:\Projects\SlightC\package.json133612871025482366 0
+32D:\Projects\SlightC\package.json133612885405009387 0
 95D:\Projects\SlightC\node_modules\.pnpm\css-tree@1.1.3\node_modules\css-tree\lib\syntax\function133612735412081105 1
 109D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\regions\KZ.js133597950977242888 0
 77D:\Projects\SlightC\node_modules\.pnpm\sass@1.77.2\node_modules\source-map-js133608498861817474 1
@@ -95,7 +95,7 @@
 96D:\Projects\SlightC\node_modules\.pnpm\sass@1.77.2\node_modules\chokidar\lib\fsevents-handler.js133599105012754734 0
 85D:\Projects\SlightC\node_modules\.pnpm\node_modules\htmlnano\docs\docs\050-modules.md133612735108319381 0
 84D:\Projects\SlightC\node_modules\.pnpm\node_modules\react-error-overlay\lib\index.js133612734973955349 0
-24D:\Projects\SlightC\dist133612877269958383 1
+24D:\Projects\SlightC\dist133612885540568949 1
 96D:\Projects\SlightC\node_modules\.pnpm\domutils@2.8.0\node_modules\domelementtype\lib\index.d.ts133612735050652234 0
 88D:\Projects\SlightC\node_modules\.pnpm\node_modules\htmlnano\lib\modules\mergeStyles.mjs133612735108446424 0
 112D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\features\cors.js133612693075519293 0
@@ -3676,7 +3676,7 @@
 90D:\Projects\SlightC\node_modules\.pnpm\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133612735070716420 0
 149D:\Projects\SlightC\node_modules\.pnpm\@parcel+transformer-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11_\node_modules\@parcel\transformer-js\lib133612735411796388 1
 108D:\Projects\SlightC\node_modules\.pnpm\chrome-trace-event@1.0.3\node_modules\chrome-trace-event\package.json133612692861224939 0
-35D:\Projects\SlightC\dist\index.html133612877267410140 0
+35D:\Projects\SlightC\dist\index.html133612885540568949 0
 92D:\Projects\SlightC\node_modules\.pnpm\svgo@2.8.0\node_modules\css-select\lib\procedure.d.ts133612734999961178 0
 121D:\Projects\SlightC\node_modules\.pnpm\@parcel+core@2.12.0_@swc+helpers@0.5.11\node_modules\nullthrows\nullthrows.js.flow133612692736846941 0
 103D:\Projects\SlightC\node_modules\.pnpm\lightningcss@1.25.1\node_modules\lightningcss\node\index.js.flow133612734983284983 0
@@ -11492,6 +11492,7 @@
 76D:\Projects\SlightC\node_modules\.pnpm\node_modules\@parcel\cache\index.d.ts133612692544772262 0
 195D:\Projects\SlightC\node_modules\.pnpm\@parcel+package-manager@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\core\test\fixtures\config-extends-not-found133612735412265880 1
 91D:\Projects\SlightC\node_modules\.pnpm\htmlnano@2.1.1_svgo@2.8.0\node_modules\svgo\bin\svgo133612734962613905 0
+40D:\Projects\SlightC\dist\bg.1c59c93d.png133612885488958780 0
 118D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\features\word-break.js133612693080535863 0
 103D:\Projects\SlightC\node_modules\.pnpm\browserslist@4.23.0\node_modules\caniuse-lite\data\regions\LY.js133597950977366540 0
 103D:\Projects\SlightC\node_modules\.pnpm\binary-extensions@2.3.0\node_modules\binary-extensions\readme.md133599105027788278 0
@@ -14109,6 +14110,7 @@
 112D:\Projects\SlightC\node_modules\.pnpm\@parcel+core@2.12.0_@swc+helpers@0.5.11\node_modules\json5\lib\unicode.js133597950904972654 0
 109D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\regions\SV.js133597950978405904 0
 109D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\regions\TH.js133597950978581554 0
+43D:\Projects\SlightC\dist\index.bf23aff5.css133612885540568949 0
 109D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\regions\TK.js133597950978598332 0
 99D:\Projects\SlightC\node_modules\.pnpm\@parcel+profiler@2.12.0\node_modules\@parcel\diagnostic\test133612735412009236 1
 109D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\regions\TT.js133597950978648346 0
@@ -14638,6 +14640,7 @@
 113D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\features\webgl.js133612693080338458 0
 114D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\features\webgl2.js133612693080351872 0
 114D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\features\webhid.js133612693080361886 0
+63D:\Projects\SlightC\dist\lalezar-regular-webfont.afefa023.woff2133612885479173231 0
 112D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\features\webm.js133612693080376120 0
 187D:\Projects\SlightC\node_modules\.pnpm\@parcel+package-manager@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133612692660680017 0
 197D:\Projects\SlightC\node_modules\.pnpm\@parcel+transformer-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11_\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133612693575854731 0
@@ -15399,6 +15402,7 @@
 111D:\Projects\SlightC\node_modules\.pnpm\browserslist@4.23.0\node_modules\caniuse-lite\data\features\wake-lock.js133612693080065158 0
 120D:\Projects\SlightC\node_modules\.pnpm\@babel+highlight@7.24.6\node_modules\@babel\helper-validator-identifier\README.md133597950954523384 0
 181D:\Projects\SlightC\node_modules\.pnpm\@parcel+runtime-react-refresh@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\utils\src\countLines.js133612692241176466 0
+49D:\Projects\SlightC\dist\mountains 1.6ec508ec.png133612885479423436 0
 109D:\Projects\SlightC\node_modules\.pnpm\browserslist@4.23.0\node_modules\caniuse-lite\data\features\wasm-gc.js133612693080095175 0
 119D:\Projects\SlightC\node_modules\.pnpm\browserslist@4.23.0\node_modules\caniuse-lite\data\features\wasm-multi-memory.js133612693080095175 0
 114D:\Projects\SlightC\node_modules\.pnpm\@parcel+core@2.12.0_@swc+helpers@0.5.11\node_modules\browserslist\README.md133597950949147246 0
@@ -18925,6 +18929,7 @@
 184D:\Projects\SlightC\node_modules\.pnpm\@parcel+optimizer-image@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\diagnostic\test\markdown.test.js133612691898678050 0
 173D:\Projects\SlightC\node_modules\.pnpm\@parcel+runtime-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\utils\test\input\sourcemap133612735412498065 1
 182D:\Projects\SlightC\node_modules\.pnpm\@parcel+runtime-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\utils\test\input\config\config.json133612692241738646 0
+62D:\Projects\SlightC\dist\lalezar-regular-webfont.dfc4e7db.woff133612885476157980 0
 181D:\Projects\SlightC\node_modules\.pnpm\@parcel+runtime-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\utils\test\input\config\empty.toml133599105018896254 0
 169D:\Projects\SlightC\node_modules\.pnpm\@parcel+runtime-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\utils\src\ansi-html.js133612692241002697 0
 164D:\Projects\SlightC\node_modules\.pnpm\@parcel+runtime-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\utils\src\blob.js133612692241012699 0
@@ -22830,7 +22835,10 @@
 33D:\Projects\SlightC\images\bg.png133607637214815811 0
 42D:\Projects\SlightC\images\Rectangle 2.png133607639178505392 0
 48D:\Projects\SlightC\dist\background.04be46d2.png133612877267917914 0
+48D:\Projects\SlightC\dist\background.78c00568.png133612885488958780 0
+47D:\Projects\SlightC\dist\index.bf23aff5.css.map133612885540568949 0
 63D:\Projects\SlightC\dist\lalezar-regular-webfont.388994a2.woff2133612877267035875 0
+43D:\Projects\SlightC\dist\Milad.99768f30.png133612885540407325 0
 43D:\Projects\SlightC\dist\Milad.fadd2894.png133612877269958383 0
 49D:\Projects\SlightC\dist\mountains 1.f00ec5e4.png133612877267188699 0
 44D:\Projects\SlightC\dist\SlightC.3464ddca.js133612877267997895 0
