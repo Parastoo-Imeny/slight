@@ -1,14 +1,17 @@
 @mixin respond($breakpoint) {
     @if $breakpoint == phone {
-        @media only screen and (max-width: 600px) { @content };
+        @media only screen and (min-width: 768px) { @content };
     }
     @if $breakpoint == tablet {
-        @media only screen and (max-width: 1200px) { @content };     //900px
+        @media only screen and (min-width: 768px) { @content };    
+    }
+    @if $breakpoint == laptop {
+        @media only screen and (min-width: 1024px) { @content };    
     }
     @if $breakpoint == desktop {
-        @media only screen and (max-width: 1440) { @content };    //1200px
+        @media only screen and (min-width: 1280px) { @content };    
     }
     @if $breakpoint == big-desktop {
-        @media only screen and (min-width: 1440) { @content };    //1800
+        @media only screen and (min-width: 1536px) { @content };   
     }
 }

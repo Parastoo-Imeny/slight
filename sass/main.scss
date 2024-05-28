@@ -1,4 +1,5 @@
 @import "abstracts/variables";
+@import "abstracts/mixins";
 
 @font-face {
   font-family: "lalezar";
@@ -66,7 +67,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1280px) and (max-width: 1536px) {
+@include respond (desktop) {
   .header {
     &__bg {
       background-position: left top;
@@ -101,7 +102,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1536px) {
+@include respond (big-desktop) {
   .header {
     &__bg {
       background-position: initial;
@@ -264,7 +265,7 @@ body {
   }
 }
 
-@media screen and (min-width: 768px) {
+@include respond (tablet) {
   .description {
     &__img {
       max-width: 400px; //change
@@ -288,7 +289,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1280px) {
+@include respond (desktop) {
   .description {
     margin: 120px 120px 120px 0;
     display: grid;
@@ -430,7 +431,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1536px) {
+@include respond (big-desktop) {
   .description {
     grid-template-columns: auto 1100px; //cange
 
@@ -546,7 +547,7 @@ body {
   align-self: center;
 }
 
-@media screen and (min-width: 768px) {
+@include respond (tablet) {
   .calendar {
     margin-top: 40px;
     text-align: right;
@@ -602,10 +603,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1024px) {
-}
-
-@media screen and (min-width: 1280px) {
+@include respond (desktop) {
   .calendar {
     margin-top: 0;
     text-align: right;
@@ -661,7 +659,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1536px) {
+@include respond (big-desktop) {
   .calendar {
     &__img {
       height: 300px;
@@ -715,7 +713,7 @@ body {
   }
 }
 
-@media screen and (min-width: 768px) {
+@include respond (tablet) {
   .footer {
     &__list {
       padding: 0 80px 30px 40px;
@@ -723,7 +721,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1280px) {
+@include respond (desktop) {
   .footer {
     display: flex;
     justify-content: space-between;
