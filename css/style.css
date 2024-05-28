@@ -110,7 +110,6 @@ body {
   border-radius: 24px 24px 0 0;
   background-size: cover;
   background-position: center;
-  max-width: 400px;
   margin: 60px 10px 0 10px;
 }
 .description__img-text {
@@ -151,7 +150,6 @@ body {
   background-color: #D0D0D0;
   height: 30px;
   margin: 0 10px;
-  max-width: 400px;
 }
 .description__box-2 {
   background-color: #346671;
