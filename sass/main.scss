@@ -67,27 +67,73 @@ body {
   }
 }
 
-@include respond (desktop) {
+// @include respond (desktop) {
+//   .header {
+//     &__bg {
+//       background-position: left top;
+//       background-size: contain;
+//       background-repeat: no-repeat;
+//       width: 100%;
+//       height: 100vh;
+//     }
+
+//     &__bg-2 {
+//       width: 100%;
+//       visibility: visible;
+//       z-index: 10;
+//       position: absolute;
+//       top: 0;
+//     }
+
+//     &__text {
+//       padding-top: 238px;
+//       padding-right: 120px;
+
+//       &-1 {
+//         font-size: 120px;
+//         line-height: 120px;
+//       }
+
+//       &-2 {
+//         font-size: 90px;
+//         line-height: 90px;
+//       }
+//     }
+//   }
+// }
+
+@include respond(desktop) {
   .header {
     &__bg {
-      background-position: left top;
-      background-size: contain;
-      background-repeat: no-repeat;
-      width: 100%;
+      display: block;
       height: 100vh;
+      width: 100%;
+      position: relative;
+      margin: auto;
     }
 
     &__bg-2 {
-      width: 100%;
+      background-image: url(../images/bg.webp);
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
       visibility: visible;
-      z-index: 10;
-      position: absolute;
+      width: 100%;
+      height: 100%;
+      z-index: 40;
+      position: relative;
       top: 0;
+      bottom: 0;
+      right: 0;
     }
+
 
     &__text {
       padding-top: 238px;
       padding-right: 120px;
+      position: absolute;
+      top: 40px;
+      right: -28px;
 
       &-1 {
         font-size: 120px;
@@ -100,9 +146,10 @@ body {
       }
     }
   }
+
 }
 
-@include respond (big-desktop) {
+@include respond(big-desktop) {
   .header {
     &__bg {
       background-position: initial;
@@ -110,15 +157,17 @@ body {
       background-repeat: no-repeat;
       width: 100%;
       height: 100vh;
-      // max-width: 100vw;
+    }
+
+    &__bg::after {
+      content: "";
+      visibility: hidden;
     }
 
     &__bg-2 {
-      // max-width: 100vw;
       visibility: hidden;
       width: 100%;
       height: 100vh;
-      // height: 100vh;
       position: absolute;
       top: 0;
       z-index: 10;
@@ -265,7 +314,7 @@ body {
   }
 }
 
-@include respond (tablet) {
+@include respond(tablet) {
   .description {
     &__img {
       max-width: 400px; //change
@@ -289,7 +338,7 @@ body {
   }
 }
 
-@include respond (desktop) {
+@include respond(desktop) {
   .description {
     margin: 120px 120px 120px 0;
     display: grid;
@@ -431,7 +480,7 @@ body {
   }
 }
 
-@include respond (big-desktop) {
+@include respond(big-desktop) {
   .description {
     grid-template-columns: auto 1100px; //cange
 
@@ -547,16 +596,15 @@ body {
   align-self: center;
 }
 
-@include respond (tab) {
+@include respond(tab) {
   .calendar {
-
     &__img {
       height: 120px;
     }
   }
 }
 
-@include respond (tablet) {
+@include respond(tablet) {
   .calendar {
     margin-top: 40px;
     text-align: right;
@@ -612,7 +660,7 @@ body {
   }
 }
 
-@include respond (desktop) {
+@include respond(desktop) {
   .calendar {
     margin-top: 0;
     text-align: right;
@@ -668,7 +716,7 @@ body {
   }
 }
 
-@include respond (big-desktop) {
+@include respond(big-desktop) {
   .calendar {
     &__img {
       height: 300px;
@@ -722,7 +770,7 @@ body {
   }
 }
 
-@include respond (tablet) {
+@include respond(tablet) {
   .footer {
     &__list {
       padding: 0 80px 30px 40px;
@@ -730,7 +778,7 @@ body {
   }
 }
 
-@include respond (desktop) {
+@include respond(desktop) {
   .footer {
     display: flex;
     justify-content: space-between;
