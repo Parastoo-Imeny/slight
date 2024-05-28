@@ -1,4 +1,4 @@
-22860
+22862
 152D:\Projects\SlightC\node_modules\.pnpm\@parcel+cache@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\utils\test133612735412468050 1
 126D:\Projects\SlightC\node_modules\.pnpm\parcel@2.12.0_@swc+helpers@0.5.11\node_modules\@parcel\diagnostic\test\markdown.test.js133612691898678050 0
 159D:\Projects\SlightC\node_modules\.pnpm\@parcel+transformer-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11_\node_modules\@parcel\core\lib\loadParcelPlugin.js133612692130536149 0
@@ -95,7 +95,7 @@
 96D:\Projects\SlightC\node_modules\.pnpm\sass@1.77.2\node_modules\chokidar\lib\fsevents-handler.js133599105012754734 0
 85D:\Projects\SlightC\node_modules\.pnpm\node_modules\htmlnano\docs\docs\050-modules.md133612735108319381 0
 84D:\Projects\SlightC\node_modules\.pnpm\node_modules\react-error-overlay\lib\index.js133612734973955349 0
-24D:\Projects\SlightC\dist133613568945629772 1
+24D:\Projects\SlightC\dist133613675297961330 1
 96D:\Projects\SlightC\node_modules\.pnpm\domutils@2.8.0\node_modules\domelementtype\lib\index.d.ts133612735050652234 0
 88D:\Projects\SlightC\node_modules\.pnpm\node_modules\htmlnano\lib\modules\mergeStyles.mjs133612735108446424 0
 112D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\features\cors.js133612693075519293 0
@@ -132,7 +132,7 @@
 165D:\Projects\SlightC\node_modules\.pnpm\@parcel+optimizer-svgo@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\svgo\lib\svgo\tools.js133612734963156707 0
 167D:\Projects\SlightC\node_modules\.pnpm\@parcel+packager-css@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\utils\lib\index.js133612692241468008 0
 170D:\Projects\SlightC\node_modules\.pnpm\@parcel+transformer-postcss@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\plugin\LICENSE133612691593540142 0
-30D:\Projects\SlightC\index.html133612918094579182 0
+30D:\Projects\SlightC\index.html133613629742945298 0
 89D:\Projects\SlightC\node_modules\.pnpm\js-yaml@4.1.0\node_modules\js-yaml\lib\type\str.js133597950859727737 0
 136D:\Projects\SlightC\node_modules\.pnpm\parcel@2.12.0_@swc+helpers@0.5.11\node_modules\@parcel\reporter-dev-server\src\templates\404.html133612691759017009 0
 92D:\Projects\SlightC\node_modules\.pnpm\css-tree@1.1.3\node_modules\css-tree\lib\syntax\scope133612735412081105 1
@@ -189,7 +189,7 @@
 99D:\Projects\SlightC\node_modules\.pnpm\node_modules\@parcel\core\node_modules\.bin\browserslist.ps1133612871024680481 0
 99D:\Projects\SlightC\node_modules\.pnpm\node_modules\caniuse-lite\data\features\css3-cursors-grab.js133612693076795502 0
 119D:\Projects\SlightC\node_modules\.pnpm\parcel@2.12.0_@swc+helpers@0.5.11\node_modules\@parcel\core\lib\applyRuntimes.js133612692129677279 0
-34D:\Projects\SlightC\sass\main.scss133613567394168722 0
+34D:\Projects\SlightC\sass\main.scss133613673298418379 0
 117D:\Projects\SlightC\node_modules\.pnpm\@swc+helpers@0.5.11\node_modules\@swc\helpers\_\_class_call_check\package.json133612734990668467 0
 83D:\Projects\SlightC\node_modules\.pnpm\node_modules\caniuse-lite\data\regions\BO.js133597950974883255 0
 58D:\Projects\SlightC\node_modules\sass\types\value\map.d.ts133608498894792980 0
@@ -3676,7 +3676,7 @@
 90D:\Projects\SlightC\node_modules\.pnpm\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133612735070716420 0
 149D:\Projects\SlightC\node_modules\.pnpm\@parcel+transformer-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11_\node_modules\@parcel\transformer-js\lib133612735411796388 1
 108D:\Projects\SlightC\node_modules\.pnpm\chrome-trace-event@1.0.3\node_modules\chrome-trace-event\package.json133612692861224939 0
-35D:\Projects\SlightC\dist\index.html133613568945629772 0
+35D:\Projects\SlightC\dist\index.html133613675297860181 0
 92D:\Projects\SlightC\node_modules\.pnpm\svgo@2.8.0\node_modules\css-select\lib\procedure.d.ts133612734999961178 0
 121D:\Projects\SlightC\node_modules\.pnpm\@parcel+core@2.12.0_@swc+helpers@0.5.11\node_modules\nullthrows\nullthrows.js.flow133612692736846941 0
 103D:\Projects\SlightC\node_modules\.pnpm\lightningcss@1.25.1\node_modules\lightningcss\node\index.js.flow133612734983284983 0
@@ -5259,7 +5259,7 @@
 87D:\Projects\SlightC\node_modules\.pnpm\node_modules\@parcel\reporter-dev-server\LICENSE133612691593540142 0
 100D:\Projects\SlightC\node_modules\.pnpm\node_modules\caniuse-lite\data\features\css-letter-spacing.js133612693076173960 0
 99D:\Projects\SlightC\node_modules\.pnpm\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133612693106988022 0
-37D:\Projects\SlightC\css\style.css.map133613567395118838 0
+37D:\Projects\SlightC\css\style.css.map133613673298871735 0
 179D:\Projects\SlightC\node_modules\.pnpm\@parcel+bundler-default@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\utils\test\throttle.test.js133612692241719309 0
 129D:\Projects\SlightC\node_modules\.pnpm\caniuse-lite@1.0.30001623\node_modules\caniuse-lite\data\features\extended-system-fonts.js133612693077317828 0
 187D:\Projects\SlightC\node_modules\.pnpm\@parcel+optimizer-image@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.11__@swc+helpers@0.5.11\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock133599105018896254 0
@@ -22847,6 +22847,8 @@
 43D:\Projects\SlightC\dist\index.4dd31e9c.css133612921108730550 0
 47D:\Projects\SlightC\dist\index.4dd31e9c.css.map133612921108780551 0
 47D:\Projects\SlightC\dist\index.bf23aff5.css.map133612885540568949 0
+43D:\Projects\SlightC\dist\index.d3c0682b.css133613675297860181 0
+47D:\Projects\SlightC\dist\index.d3c0682b.css.map133613675297960496 0
 43D:\Projects\SlightC\dist\index.dfd1f8e0.css133613568945629772 0
 63D:\Projects\SlightC\dist\lalezar-regular-webfont.388994a2.woff2133612877267035875 0
 44D:\Projects\SlightC\dist\Milad.01eb4ee8.webp133613564522419253 0
@@ -22856,6 +22858,6 @@
 49D:\Projects\SlightC\dist\mountains 1.f00ec5e4.png133612877267188699 0
 44D:\Projects\SlightC\dist\SlightC.3464ddca.js133612877267997895 0
 48D:\Projects\SlightC\dist\SlightC.3464ddca.js.map133612877268018139 0
-33D:\Projects\SlightC\css\style.css133613567395118838 0
+33D:\Projects\SlightC\css\style.css133613673298881741 0
 39D:\Projects\SlightC\css\fonts\vazirmatn133611054067270225 1
 67D:\Projects\SlightC\css\fonts\lalezar\lalezar-regular-webfont.woff2133610711220000000 0
