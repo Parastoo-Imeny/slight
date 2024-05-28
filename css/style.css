@@ -84,6 +84,8 @@ body {
   font-weight: 700;
   font-size: 60px;
   line-height: 60px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .description__text-4 {
   font-weight: 400;
@@ -92,20 +94,24 @@ body {
   color: #000;
   opacity: 40%;
   margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .description__text-3 {
   font-weight: 400;
   font-size: 40px;
   line-height: 40px;
   margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .description__img {
-  margin: 60px 10px 0 10px;
   background-image: url(../images/Milad.webp);
   border-radius: 24px 24px 0 0;
   background-size: cover;
   background-position: center;
   max-width: 400px;
+  margin: 60px 10px 0 10px;
 }
 .description__img-text {
   color: #ECEBE6;
@@ -341,7 +347,7 @@ body {
   background-image: url(../images/mountains\ 1.webp);
   background-position: center;
   background-size: cover;
-  height: 100px;
+  height: 92px;
   display: block;
   margin: 0 auto;
 }
