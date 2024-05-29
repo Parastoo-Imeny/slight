@@ -72,6 +72,7 @@ body {
     padding-top: 238px;
     padding-right: 120px;
     position: absolute;
+    top: 0;
   }
   .header__text-1 {
     font-size: 120px;
